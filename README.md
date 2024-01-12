@@ -1,6 +1,6 @@
 ## Welcome 👋
 
-![루피이미지](https://mblogthumb-phinf.pstatic.net/MjAyMjA1MDdfMjA5/MDAxNjUxOTI2NjI0MDI0.Ex4Mv_j4Bh8JNvNdU13_JRFT6MIjuTXhymjAW1FPy04g.ZniARpE_aqYVN-z5hScs8bSGGsTHYjaPsSiKEE7OXd4g.JPEG.solim13/SE-5cf843a9-9baa-442e-a3ac-41fb2749374f.jpg?type=w800)
+![웰컴이미지](welcomeimage.jpg)
 
 ### 📫 How to reach me: fsc2030fsc@gmail.com
 ### 🌱 I’m currently learning python
